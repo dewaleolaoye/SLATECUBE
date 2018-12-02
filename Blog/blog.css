@@ -1,0 +1,30 @@
+/* 
+border color: #bdc3c7
+date color: #3498db 
+h2 color #2c3e50
+font: source sans pro*/
+
+body{
+    
+    margin: 3% 20%;
+    border: 20px solid #bdc3c7;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2em; 
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+h2 {
+    font-weight: 800;
+    color: #2c3e50;
+    font-size: 2.0rem;
+}
+.first-paragraph {
+    border-left: 7px solid #bdc3c7;
+    padding-left: 5px;
+}

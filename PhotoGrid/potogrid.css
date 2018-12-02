@@ -1,0 +1,15 @@
+img {
+    width:  30%;
+    float: left;
+    margin: 1.66%;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    margin-left: 1.66%;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 3px #f1f1f1 solid;
+    width: 30%;
+    padding: 0.5em;
+}
